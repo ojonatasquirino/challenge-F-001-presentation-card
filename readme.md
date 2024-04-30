@@ -29,6 +29,7 @@
 - [objetivos](#id01)
 - [descrição detalhada](#id01.01)
 - [desafio](#id01.02)
+- [requisitos](#id01.03)
 - [tecnologias utilizadas](#id02)
 - [ambiente de codificação](#id03)
 - [clonagem e instalação](#id04)
@@ -61,6 +62,27 @@ Imagine que você está começando no ramo do front-end, e surgiu uma oportunida
 Aliás, eles disseram o seguinte também, quando foi perguntado sobre design.
 
 "O que? querendo um design pronto? Não queremos uma monte de cardzinhos iguais... Seja criativo, nos impressione!"
+
+# requisitos <a name="id01.03"></a>
+
+O card de apresentação deve conter:
+
+
+- Nome completo
+- Links para o gitHub e linkedin
+- Foto de perfil
+- Dizendo que é desenvolvedor front-end
+- um breve descrição se apresentando
+
+### Requisitos não funcionais
+
+É obrigatório a utilização de:
+
+![html](https://img.shields.io/badge/html-0D1117?style=for-the-badge&logo=html5&logoColor=red)
+![css](https://img.shields.io/badge/css-0D1117?style=for-the-badge&logo=css3&logoColor=blue)
+
+
+<br />
 
 
 # tecnologias utilizadas <a name="id02"></a>
