@@ -74,14 +74,6 @@ O card de apresentação deve conter:
 - Dizendo que é desenvolvedor front-end
 - um breve descrição se apresentando
 
-### Requisitos não funcionais
-
-É obrigatório a utilização de:
-
-![html](https://img.shields.io/badge/html-0D1117?style=for-the-badge&logo=html5&logoColor=red)
-![css](https://img.shields.io/badge/css-0D1117?style=for-the-badge&logo=css3&logoColor=blue)
-
-
 <br />
 
 
